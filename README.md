@@ -1,6 +1,6 @@
-# TELCO-CUSTOMER-CHURN-PREDICTION-DATA-MINING
+# RESTAURANT REVENUE
 Evaluated model performance and identified high-risk customer segments to support data-driven customer retention strategies.
-# Telco Customer Churn Prediction
+# Restaurant Revenue APPLIED REGRESSION ANALYSIS 
 
 ## Project Overview
 A data mining project focused on analysing customer churn patterns and predicting customers at risk of leaving a telecommunications service provider.
