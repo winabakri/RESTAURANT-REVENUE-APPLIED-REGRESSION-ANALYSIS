@@ -1,8 +1,6 @@
 # RESTAURANT REVENUE
 Restaurant Revenue Analysis using SAS OnDemand | Multiple Linear Regression, Customer Analytics, Revenue Drivers & Statistical Modelling.
-# Restaurant Revenue Applied Regression Analysis
-
-# Restaurant Revenue Analysis | Multiple Linear Regression
+# Restaurant Revenue Applied Regression Analysis | Multiple Linear Regression
 
 ## Project Overview
 A statistical analysis project investigating factors associated with restaurant revenue using SAS OnDemand. Multiple Linear Regression was applied to examine the relationships between revenue and key business variables, including number of customers, menu prices, and average customer spending.
